@@ -14,14 +14,14 @@ A responsive and easy-to-use React application built with Vite, TypeScript, and 
 - 🧭 Pagination for browsing listings
 - 🔐 Basic login page
 - ⚡ Fast build with Vite
-- 🎨 Tailwind CSS for styling
+- 🎨  CSS for styling
 
 ---
 
 ## 🛠 Tech Stack
 
 - **Frontend:** React.js + TypeScript
-- **Styling:** Tailwind CSS
+- **Styling:**  CSS
 - **Build Tool:** Vite
 
 ---
